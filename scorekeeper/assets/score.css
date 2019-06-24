@@ -1,0 +1,56 @@
+
+.container {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 50px;
+    font-size: 2em;
+}
+
+.winner {
+    color:green
+}
+
+button {
+    border: none;
+    color: white;
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 10px;
+
+}
+
+input {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+#p1 {
+    background: #e8e50a;
+}
+
+#p1:hover {
+    background-color: #e4d20a
+}
+
+
+#p2 {
+    background: #0085e3;
+}
+
+#p2:hover {
+    background-color: #006ac4
+}
+
+
+#reset {
+    background: #f44336;
+    display: block;
+    margin: 20px auto 0px auto;
+}
+
+#reset:hover {
+    background-color: #d30000
+}
+    
